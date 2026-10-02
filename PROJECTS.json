@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ecommerce-order-and-inventory-service-dotnet",
+    "title": "Ecommerce Order and Inventory Service",
+    "family": ".NET",
+    "folder": "dotnet/ecommerce-order-and-inventory-service-dotnet"
+  },
+  {
+    "id": "education-learning-and-assessment-portal-dotnet",
+    "title": "Education Learning and Assessment Portal",
+    "family": ".NET",
+    "folder": "dotnet/education-learning-and-assessment-portal-dotnet"
+  },
+  {
+    "id": "azure-integration-and-operations-toolkit-dotnet",
+    "title": "Azure Integration and Operations Toolkit",
+    "family": ".NET",
+    "folder": "dotnet/azure-integration-and-operations-toolkit-dotnet"
+  }
+]

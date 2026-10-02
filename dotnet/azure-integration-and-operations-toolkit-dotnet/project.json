@@ -1,0 +1,24 @@
+{
+  "id": "azure-integration-and-operations-toolkit-dotnet",
+  "title": "Azure Integration and Operations Toolkit",
+  "family": ".NET",
+  "domain": "cloud",
+  "actions": [
+    "ingest",
+    "replay"
+  ],
+  "samples": {
+    "ingest": {
+      "id": "FILE-1",
+      "rows": [
+        {
+          "sku": "BOOK",
+          "quantity": 2
+        }
+      ]
+    },
+    "replay": {
+      "id": "FILE-1"
+    }
+  }
+}
